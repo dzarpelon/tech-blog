@@ -3,6 +3,14 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hello Tech World!
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I’m Diego Zarpelon, a Senior Support Engineer working across infrastructure, automation, DevOps, and modern tooling.
+
+This blog is where I publish thoughtful articles and practical technical guides about AI, automation, DevOps, and the broader tech world.
+
+Here we will focus on many tech aspects like Artificial Inteligence (AI), automation tools and DevOps.
+
+My view on tech is that we need it to accomplish things! Tech without a purpose is a waste! It should enable very real human beings to achieve their best!
+
+If you enjoy this view and like the tech world, your place is here!
