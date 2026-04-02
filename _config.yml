@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 url: "https://tech.dzarpelon.com"
-baseurl: ""
+baseurl: "/tech-blog"
 locale: "en-US"
 title: DZarpelon's Tech Blog
 email: contact@dzarpelon.com
