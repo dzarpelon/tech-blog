@@ -101,6 +101,7 @@ Basically anything can be done here. Especially with its multitude of [Extension
 </details>
 
 
+
 Full disclosure: I don't really use all of them as sometimes I install some to check and forget.
 
 But in the future I'll create a post talking about my favorites.
