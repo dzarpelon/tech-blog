@@ -1,30 +1,32 @@
----
-title: "My Toolstack"
-categories: [articles]
-date: 2026-04-03
-tags: ["blog"]
----
 
-Hello Tech World!
-
-I was thinking on what should be my first "real" post and here it is!
-
-In this one I'll share, and in a way document, the toolstack I'm using the most nowadays.
-
-## My Toolstack
-
-### VScode
-
-You all know [VScode](https://code.visualstudio.com/)! It's our IDE (well, technically it's a text editor. But nowadays it's way more than just that!) and base for all our other tools fundamentally.
-
-I use it for everything:
-
-- Connect it to Chatgpt/Codex
-- Create skills and prompts for my AI of choice
-- Create posts on this blog
-- Read logs
-- Connect to databases
-- Remotely connect and manage Linux machines
+<details>
+<summary>To view all my extensions, click here</summary>
+<ul>
+	<li><a href="https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager">alefragnani.project-manager</a></li>
+	<li><a href="https://marketplace.visualstudio.com/items?itemName=amazonwebservices.aws-toolkit-vscode">amazonwebservices.aws-toolkit-vscode</a></li>
+	<li><a href="https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense">christian-kohler.path-intellisense</a></li>
+	<li><a href="https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore">codezombiech.gitignore</a></li>
+	<li><a href="https://marketplace.visualstudio.com/items?itemName=compilenix.vscode-zonefile">compilenix.vscode-zonefile</a></li>
+	<li><a href="https://marketplace.visualstudio.com/items?itemName=davidanson.vscode-markdownlint">davidanson.vscode-markdownlint</a></li>
+	<li><a href="https://marketplace.visualstudio.com/items?itemName=docker.docker">docker.docker</a></li>
+	<li><a href="https://marketplace.visualstudio.com/items?itemName=donjayamanne.git-extension-pack">donjayamanne.git-extension-pack</a></li>
+	<li><a href="https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory">donjayamanne.githistory</a></li>
+	<li><a href="https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens">eamodio.gitlens</a></li>
+	<li><a href="https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode">esbenp.prettier-vscode</a></li>
+	<li><a href="https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-open-in-application">fabiospampinato.vscode-open-in-application</a></li>
+	<li><a href="https://marketplace.visualstudio.com/items?itemName=george-alisson.html-preview-vscode">george-alisson.html-preview-vscode</a></li>
+	<li><a href="https://marketplace.visualstudio.com/items?itemName=ginfuru.ginfuru-vscode-jekyll-syntax">ginfuru.ginfuru-vscode-jekyll-syntax</a></li>
+	<li><a href="https://marketplace.visualstudio.com/items?itemName=github.copilot-chat">github.copilot-chat</a></li>
+	<li><a href="https://marketplace.visualstudio.com/items?itemName=github.remotehub">github.remotehub</a></li>
+	<li><a href="https://marketplace.visualstudio.com/items?itemName=github.vscode-github-actions">github.vscode-github-actions</a></li>
+	<li><a href="https://marketplace.visualstudio.com/items?itemName=github.vscode-pull-request-github">github.vscode-pull-request-github</a></li>
+	<li><a href="https://marketplace.visualstudio.com/items?itemName=golang.go">golang.go</a></li>
+	<li><a href="https://marketplace.visualstudio.com/items?itemName=hashicorp.hcl">hashicorp.hcl</a></li>
+	<li><a href="https://marketplace.visualstudio.com/items?itemName=hashicorp.sentinel">hashicorp.sentinel</a></li>
+	<li><a href="https://marketplace.visualstudio.com/items?itemName=hashicorp.terraform">hashicorp.terraform</a></li>
+	<li><a href="https://marketplace.visualstudio.com/items?itemName=inferrinizzard.prettier-sql-vscode">inferrinizzard.prettier-sql-vscode</a></li>
+	<li><a href="https://marketplace.visualstudio.com/items?itemName=k-r-o-s.jekyll-post-generator">k-r-o-s.jekyll-post-generator</a></li>
+</ul>
 - Create automations with Terraform, Ansible and tools alike. 
 
 Basically anything can be done here. Especially with its multitude of [Extensions](https://marketplace.visualstudio.com/VSCode) you can configure and customize it to whatever you intend to do!
