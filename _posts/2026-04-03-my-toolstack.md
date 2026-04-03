@@ -5,7 +5,7 @@ date: 2026-04-03
 tags: ["blog"]
 ---
 
-*Hello Tech World!*
+Hello Tech World!
 
 I was thinking on what should be my first "real" post and here it is!
 
@@ -31,8 +31,10 @@ Basically anything can be done here. Especially with its multitude of [Extension
 
 #### Here is a list of my current extensions
 
+
 <details>
 <summary>To view all my extensions, click here</summary>
+
 
 - [alefragnani.project-manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
 - [amazonwebservices.aws-toolkit-vscode](https://marketplace.visualstudio.com/items?itemName=amazonwebservices.aws-toolkit-vscode)
