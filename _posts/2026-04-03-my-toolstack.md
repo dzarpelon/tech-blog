@@ -30,7 +30,6 @@ I use it for everything:
 Basically anything can be done here. Especially with its multitude of [Extensions](https://marketplace.visualstudio.com/VSCode) you can configure and customize it to whatever you intend to do!
 
 Here is a list of my current extensions:
-
 <br>
 <details>
 <summary>To view all my extensions, click here</summary>
