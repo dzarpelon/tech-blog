@@ -232,3 +232,28 @@ $(document).ready(function () {
       });
   }
 });
+
+document.addEventListener("DOMContentLoaded", function () {
+  const links = document.querySelectorAll("a[href]");
+
+  links.forEach(function (link) {
+    const url = link.getAttribute("href");
+
+    // Ignore internal links, anchors, mail, tel, and javascript links
+    if (
+      url.startsWith("/") ||
+      url.startsWith("#") ||
+      url.startsWith("mailto:") ||
+      url.startsWith("tel:") ||
+      url.startsWith("javascript:")
+    ) {
+      return;
+    }
+
+    // If link is external, open in new tab
+    if (!link.hostname.includes(window.location.hostname)) {
+      link.target = "_blank";
+      link.rel = "noopener noreferrer";
+    }
+  });
+});
