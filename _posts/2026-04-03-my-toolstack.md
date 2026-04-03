@@ -33,72 +33,71 @@ Basically anything can be done here. Especially with its multitude of [Extension
 
 <details>
 <summary>To view all my extensions, click here</summary>
-
-
-- [alefragnani.project-manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
-- [amazonwebservices.aws-toolkit-vscode](https://marketplace.visualstudio.com/items?itemName=amazonwebservices.aws-toolkit-vscode)
-- [christian-kohler.path-intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
-- [codezombiech.gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore)
-- [compilenix.vscode-zonefile](https://marketplace.visualstudio.com/items?itemName=compilenix.vscode-zonefile)
-- [davidanson.vscode-markdownlint](https://marketplace.visualstudio.com/items?itemName=davidanson.vscode-markdownlint)
-- [docker.docker](https://marketplace.visualstudio.com/items?itemName=docker.docker)
-- [donjayamanne.git-extension-pack](https://marketplace.visualstudio.com/items?itemName=donjayamanne.git-extension-pack)
-- [donjayamanne.githistory](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
-- [eamodio.gitlens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
-- [esbenp.prettier-vscode](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-- [fabiospampinato.vscode-open-in-application](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-open-in-application)
-- [george-alisson.html-preview-vscode](https://marketplace.visualstudio.com/items?itemName=george-alisson.html-preview-vscode)
-- [ginfuru.ginfuru-vscode-jekyll-syntax](https://marketplace.visualstudio.com/items?itemName=ginfuru.ginfuru-vscode-jekyll-syntax)
-- [github.copilot-chat](https://marketplace.visualstudio.com/items?itemName=github.copilot-chat)
-- [github.remotehub](https://marketplace.visualstudio.com/items?itemName=github.remotehub)
-- [github.vscode-github-actions](https://marketplace.visualstudio.com/items?itemName=github.vscode-github-actions)
-- [github.vscode-pull-request-github](https://marketplace.visualstudio.com/items?itemName=github.vscode-pull-request-github)
-- [golang.go](https://marketplace.visualstudio.com/items?itemName=golang.go)
-- [hashicorp.hcl](https://marketplace.visualstudio.com/items?itemName=hashicorp.hcl)
-- [hashicorp.sentinel](https://marketplace.visualstudio.com/items?itemName=hashicorp.sentinel)
-- [hashicorp.terraform](https://marketplace.visualstudio.com/items?itemName=hashicorp.terraform)
-- [inferrinizzard.prettier-sql-vscode](https://marketplace.visualstudio.com/items?itemName=inferrinizzard.prettier-sql-vscode)
-- [k-r-o-s.jekyll-post-generator](https://marketplace.visualstudio.com/items?itemName=k-r-o-s.jekyll-post-generator)
-- [llvm-vs-code-extensions.lldb-dap](https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-extensions.lldb-dap)
-- [mechatroner.rainbow-csv](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
-- [ms-azuretools.vscode-containers](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-containers)
-- [ms-azuretools.vscode-docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
-- [ms-kubernetes-tools.vscode-kubernetes-tools](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools)
-- [ms-python.debugpy](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy)
-- [ms-python.python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
-- [ms-python.vscode-pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
-- [ms-python.vscode-python-envs](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-python-envs)
-- [ms-toolsai.jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
-- [ms-toolsai.jupyter-keymap](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-keymap)
-- [ms-toolsai.jupyter-renderers](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-renderers)
-- [ms-toolsai.vscode-jupyter-cell-tags](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-cell-tags)
-- [ms-toolsai.vscode-jupyter-slideshow](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-slideshow)
-- [ms-vscode-remote.remote-containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
-- [ms-vscode-remote.remote-ssh](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
-- [ms-vscode-remote.remote-ssh-edit](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh-edit)
-- [ms-vscode-remote.vscode-remote-extensionpack](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
-- [ms-vscode.azure-repos](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-repos)
-- [ms-vscode.live-server](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)
-- [ms-vscode.remote-explorer](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-explorer)
-- [ms-vscode.remote-repositories](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-repositories)
-- [ms-vscode.remote-server](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-server)
-- [oderwat.indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
-- [openai.chatgpt](https://marketplace.visualstudio.com/items?itemName=openai.chatgpt)
-- [pascalreitermann93.vscode-yaml-sort](https://marketplace.visualstudio.com/items?itemName=pascalreitermann93.vscode-yaml-sort)
-- [postman.postman-for-vscode](https://marketplace.visualstudio.com/items?itemName=postman.postman-for-vscode)
-- [redhat.ansible](https://marketplace.visualstudio.com/items?itemName=redhat.ansible)
-- [redhat.vscode-xml](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml)
-- [redhat.vscode-yaml](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
-- [sankooc.pcapviewer](https://marketplace.visualstudio.com/items?itemName=sankooc.pcapviewer)
-- [sleistner.vscode-fileutils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils)
-- [swiftlang.swift-vscode](https://marketplace.visualstudio.com/items?itemName=swiftlang.swift-vscode)
-- [vscode-infra.image-viewer](https://marketplace.visualstudio.com/items?itemName=vscode-infra.image-viewer)
-- [william-voyek.vscode-nginx](https://marketplace.visualstudio.com/items?itemName=william-voyek.vscode-nginx)
-- [yy0931.save-as-root](https://marketplace.visualstudio.com/items?itemName=yy0931.save-as-root)
-- [yzhang.markdown-all-in-one](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
-- [zainchen.json](https://marketplace.visualstudio.com/items?itemName=zainchen.json)
-- [ziyasal.vscode-open-in-github](https://marketplace.visualstudio.com/items?itemName=ziyasal.vscode-open-in-github)
-
+<ul>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager">alefragnani.project-manager</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=amazonwebservices.aws-toolkit-vscode">amazonwebservices.aws-toolkit-vscode</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense">christian-kohler.path-intellisense</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore">codezombiech.gitignore</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=compilenix.vscode-zonefile">compilenix.vscode-zonefile</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=davidanson.vscode-markdownlint">davidanson.vscode-markdownlint</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=docker.docker">docker.docker</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=donjayamanne.git-extension-pack">donjayamanne.git-extension-pack</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory">donjayamanne.githistory</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens">eamodio.gitlens</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode">esbenp.prettier-vscode</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-open-in-application">fabiospampinato.vscode-open-in-application</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=george-alisson.html-preview-vscode">george-alisson.html-preview-vscode</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=ginfuru.ginfuru-vscode-jekyll-syntax">ginfuru.ginfuru-vscode-jekyll-syntax</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=github.copilot-chat">github.copilot-chat</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=github.remotehub">github.remotehub</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=github.vscode-github-actions">github.vscode-github-actions</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=github.vscode-pull-request-github">github.vscode-pull-request-github</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=golang.go">golang.go</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=hashicorp.hcl">hashicorp.hcl</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=hashicorp.sentinel">hashicorp.sentinel</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=hashicorp.terraform">hashicorp.terraform</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=inferrinizzard.prettier-sql-vscode">inferrinizzard.prettier-sql-vscode</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=k-r-o-s.jekyll-post-generator">k-r-o-s.jekyll-post-generator</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-extensions.lldb-dap">llvm-vs-code-extensions.lldb-dap</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv">mechatroner.rainbow-csv</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-containers">ms-azuretools.vscode-containers</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker">ms-azuretools.vscode-docker</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools">ms-kubernetes-tools.vscode-kubernetes-tools</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy">ms-python.debugpy</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=ms-python.python">ms-python.python</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance">ms-python.vscode-pylance</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-python-envs">ms-python.vscode-python-envs</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter">ms-toolsai.jupyter</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-keymap">ms-toolsai.jupyter-keymap</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-renderers">ms-toolsai.jupyter-renderers</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-cell-tags">ms-toolsai.vscode-jupyter-cell-tags</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-slideshow">ms-toolsai.vscode-jupyter-slideshow</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers">ms-vscode-remote.remote-containers</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh">ms-vscode-remote.remote-ssh</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh-edit">ms-vscode-remote.remote-ssh-edit</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack">ms-vscode-remote.vscode-remote-extensionpack</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-repos">ms-vscode.azure-repos</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server">ms-vscode.live-server</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-explorer">ms-vscode.remote-explorer</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-repositories">ms-vscode.remote-repositories</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-server">ms-vscode.remote-server</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow">oderwat.indent-rainbow</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=openai.chatgpt">openai.chatgpt</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=pascalreitermann93.vscode-yaml-sort">pascalreitermann93.vscode-yaml-sort</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=postman.postman-for-vscode">postman.postman-for-vscode</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=redhat.ansible">redhat.ansible</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml">redhat.vscode-xml</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml">redhat.vscode-yaml</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=sankooc.pcapviewer">sankooc.pcapviewer</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils">sleistner.vscode-fileutils</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=swiftlang.swift-vscode">swiftlang.swift-vscode</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=vscode-infra.image-viewer">vscode-infra.image-viewer</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=william-voyek.vscode-nginx">william-voyek.vscode-nginx</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=yy0931.save-as-root">yy0931.save-as-root</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one">yzhang.markdown-all-in-one</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=zainchen.json">zainchen.json</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=ziyasal.vscode-open-in-github">ziyasal.vscode-open-in-github</a></li>
+</ul>
 </details>
 
 Full disclosure: I don't really use all of them as sometimes I install some to check and forget.
