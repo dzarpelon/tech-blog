@@ -99,8 +99,7 @@ Basically anything can be done here. Especially with its multitude of [Extension
   <li><a href="https://marketplace.visualstudio.com/items?itemName=ziyasal.vscode-open-in-github">ziyasal.vscode-open-in-github</a></li>
 </ul>
 </details>
-
-
+<br>
 
 Full disclosure: I don't really use all of them as sometimes I install some to check and forget.
 
