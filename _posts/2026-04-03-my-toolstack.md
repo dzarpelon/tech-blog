@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "My Toolstack"
+categories: articles
 date: 2026-04-03 10:39:38 +0200
 tags: ["blog"]
 ---
